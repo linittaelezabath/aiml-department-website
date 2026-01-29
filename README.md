@@ -7,6 +7,9 @@ provides contact and quick-access resources for students and visitors.
 The website is designed with a clean, professional aesthetic using HTML5, CSS3, and JavaScript, with animations and interactive 
 components for an engaging user experience. It is optimized for both desktop and mobile devices.
 
+### Live Demo
+Goto : https://aiml-department-website-k377hyjiz-linittaelezabaths-projects.vercel.app/
+
 ### Features
 
 Responsive Design: Fully adapts to desktop, tablet, and mobile screens.
